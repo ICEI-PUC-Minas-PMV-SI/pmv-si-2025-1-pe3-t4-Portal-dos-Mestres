@@ -1,4 +1,7 @@
-# Título do Projeto
+
+SISTEMA DE JOGOS RPG:
+PORTAL DOS MESTRES
+
 
 `CURSO: Sistemas de Informação`
 
@@ -6,20 +9,24 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo deste trabalho é desenvolver uma plataforma online que conecte jogadores de RPG, oferecendo uma experiência interativa e personalizada. Através de um sistema de cadastro, os usuários poderão indicar as classes e estilos de RPG que mais apreciam, escolher seu papel nas próximas partidas (mestre ou jogador), e utilizar tags para facilitar a busca e o encontro de outros participantes com interesses semelhantes. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+Guilherme Botelho da Silva
+
+João Gabriel Rosa Costa
+
+Mariana Silva de Mello Mattos
+
+Felipe Paiva dos Santos
+
+Thais Angélica Costa Lara
+
 
 ## Orientador
 
-* Nome completo do professor 
+* Fábio Martins de Oliveira
 
 # Planejamento
 
