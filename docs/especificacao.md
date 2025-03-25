@@ -1,29 +1,29 @@
 # 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE
 
-Nesta parte do trabalho você deve detalhar a documentação dos requisitos do sistema proposto de acordo com as seções a seguir. Ressalta-se que aqui é utilizado como exemplo um sistema de gestão de cursos de aperfeiçoamento.
+Constarão a seguir os detalhamentos dos requisitos do sistema.
 
 ## 3.1 Objetivos deste documento
-Descrever e especificar as necessidades da Coordenação do Curso de Sistemas de Informação da PUC Minas que devem ser atendidas pelo projeto SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento.
+Descrever e especificar as necessidades dos Usuários que devem ser atendidas pela plataforma de jogos RPG e Geek.
 
 ## 3.2 Escopo do produto
 
 ### 3.2.1 Nome do produto e seus componentes principais
-O produto será denominado SCCA – Sistema de Cadastro de Cursos de Aperfeiçoamento. Ele terá somente um componente (módulo) com os devidos elementos necessários à gestão de cursos.
+O produto será uma plataforma de jogos de RPG denominado Portal dos Mestres. Ela será composta 3 componentes (módulo): Gestão de usuários, comunicação (Chat), fórum e notícias. 
 
 ### 3.2.2 Missão do produto
-Gerenciar informações sobre a oferta de cursos de aperfeiçoamento, gerenciar a composição das turmas, alunos, professores e matrículas. 
+Fornecer uma plataforma colaborativa para compartilhamento e divulgação da cultura do RPG de mesa. O intuito é criar uma rede social e reunir jogadores interessados ao universo geek.
 
 ### 3.2.3 Limites do produto
-O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcelas do curso, pagamento a professore e agendamentos. O SCCA não contempla o atendimento a vários cursos de Sistemas de Informação de outras unidades da PUC Minas.
+A plataforma de gestão de usuários de RPG não oferece integração direta com plataformas de jogos online para importação automática de campanhas ou personagens. Além disso, a plataforma não realiza moderação automática de postagens, deixando a curadoria do conteúdo inteiramente a cargo da comunidade e dos administradores de grupos.
 
 ### 3.2.4 Benefícios do produto
 
 | # | Benefício | Valor para o Cliente |
 |--------------------|------------------------------------|----------------------------------------|
 |1	| Facilidade no cadastro de dados |	Essencial |
-|2 | Facilidade na recuperação de informações | Essencial | 
-|3 | Segurança no cadastro de matrículas | Essencial | 
-|4	| Melhoria na comunicação com os alunos	| Recomendável | 
+|2 | Facilidade na recuperação de informações | Recomendável | 
+|3 | Segurança no cadastro | Recomendável | 
+|4	| Melhoria na comunicação dos jogadores	| Essencial | 
 
 ## 3.3 Descrição geral do produto
 
@@ -31,18 +31,22 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 | Código | Requisito Funcional (Funcionalidade) | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| RF1 | Gerenciar Curso de Aperfeiçoamento |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Cursos de Aperfeiçoamento |
-| RF2 |	Gerenciar Professor	| Processamento de Inclusão, Alteração, Exclusão e Consulta de professores |
-| RF3	| Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento |
-| ... |	...	| ... |
+| RF1 | Gerenciamento de usuários |	A plataforma deverá ter um gerenciamento de usuários; Processamento de Inclusão, Alteração, Exclusão |
+| RF2 |	Gerenciamento notícias	| O produto deverá ser integração com API voltada ao mundo RPG e Geek; Processamento de Inclusão, Alteração, Exclusão. |
+| RF3	| Filtros de linguagem e conteúdo | A plataforma deverá ter filtros automáticos de linguagem imprópria ou ofensiva, com a possibilidade de personalização de palavras-chave e regras de bloqueio de conteúdo. |
+| RF4	| Limitar interações de usuários mal intencionados | Implementar o bloqueio de usuários mal intencionados. |
+| RF5	| Sistema de login | O sistema deverá ter uma tela de login para usuários já cadastrados. |
+| RF6	| Sistema de cadastro | O produto deverá ter uma tela de cadastro para novos usuários. |
+| RF7	| Sistema de chat | O sistema deverá ter um chat para a comunicação entre os jogadores. |
+| RF8	| Sistema de fórum | Os usuários deverão ter acesso a um fórum para compartilhar ideias e se conhecerem. |
 
 ### 3.3.2 Requisitos Não Funcionais
 
 | Código | Requisito Não Funcional (Restrição) |
 |--------------------|------------------------------------|
-| RNF1 | O ambiente operacional a ser utilizado é o Windows XP. |
-| RNF2 | O sistema deverá executar em um computador configurado com uma impressora de tecnologia laser ou de jato de tinta, a ser usada para impressão dos relatórios. |
-| RNF3 |	Segurança	O produto deve restringir o acesso por meio de senhas individuais para o usuário. |
+| RNF1 | O sistema deverá executar em um dispositivo que tenha acesso aos navegadores Chrome, Edge, Firefox, Opera, Safari. |
+| RNF2 |	Segurança	| O produto deve restringir o acesso por meio de senhas individuais para o usuário. |
+| RNF3 | O sistema deve suportar aproximadamente 20.000 usuários simultâneos. |
 | ... |	... |	... |
 
 ### 3.3.3 Usuários 
