@@ -1,5 +1,4 @@
 # 3. DOCUMENTO DE ESPECIFICAÇÃO DE REQUISITOS DE SOFTWARE
-
 Constarão a seguir os detalhamentos dos requisitos do sistema.
 
 ## 3.1 Objetivos deste documento
