@@ -1,44 +1,17 @@
 # 2. ESTADO DA ARTE
-Estado da Arte - Sistema de Jogos RPG: Portal dos Mestres
 
-Contextualização
+## Estado da Arte - Sistema de Jogos RPG: Portal dos Mestres
 
-Os jogos de RPG (Role-Playing Games) de mesa têm experimentado um aumento de popularidade no Brasil, acompanhado pelo crescimento da cultura geek (UFRGS, 2025). Esse cenário reflete uma comunidade dinâmica, mas com desafios: jogadores frequentemente enfrentam dificuldades para encontrar outros entusiastas, locais adequados e eventos especializados. A ausência de uma plataforma centralizada que organize essas informações limita a interação e o crescimento dessa comunidade. O "Portal dos Mestres" surge como uma solução para conectar jogadores, mestres e espaços geek, oferecendo uma experiência integrada e acessível.
+Os jogos de interpretação de papéis (Role-Playing Games – RPGs) de mesa constituem uma prática colaborativa baseada em narrativa compartilhada, construção de personagens e resolução de desafios dada a mediação de um mestre ou narrador. No Brasil, o RPG tem apresentado um crescimento notável nos últimos anos, impulsionado pelo avanço da cultura geek e a ampliação de espaços dedicados à fantasia, à literatura especulativa e aos jogos analógicos (UFRGS, 2025; Santos & Oliveira, 2022).
 
-O RPG e suas Aplicações
+Essa categoria de entretenimento combina narrativa, interpretação e interação social (Instituto Claro, 2025). Além do entretenimento, o RPG tem sido explorado em contextos pedagógicos, como ferramenta para ensinar história, literatura e ciências, proporcionando o desenvolvimento de habilidades tais quais criatividade, raciocínio lógico e trabalho em equipe (UFRGS, 2025; RPG na Escola, 2025). Esses usos demonstram seu potencial como instrumento de engajamento e conexão, que vão para além de sua função original como diversão, tendo sido utilizado não só em contexto de ensino, como também em abordagens terapêuticas e no meio corporativo. Destaca-se como ferramenta de desenvolvimento de pensamento crítico e empatia através do seu trabalho em equipe (Vasconcelos & Ribeiro, 2023; RPG na Escola, 2025).
 
-O RPG de mesa é uma atividade colaborativa que combina narrativa, interpretação e interação social, sendo conduzida por um mestre que guia os jogadores em mundos fictícios (Instituto Claro, 2025). Além do entretenimento, o RPG tem sido explorado em contextos pedagógicos, como ferramenta para ensinar história, literatura e ciências, enquanto desenvolve habilidades como criatividade, raciocínio lógico e trabalho em equipe (UFRGS, 2025; RPG na Escola, 2025). Esses usos demonstram seu potencial como instrumento de engajamento e conexão, alinhando-se ao objetivo do "Portal dos Mestres" de unir pessoas com interesses comuns.
+Além de seu potencial para o desenvolvimento individual, experiências como as plataformas RPG na Escola e RPG Educ mostram o potencial de adaptação do RPG para contextos formais de ensino, chegando a oferecer insumos compatíveis com a Base Nacional Comum Curricular (BNCC). Apesar de sua contribuição para ambientes estruturados como escolas e meios corporativos, a literatura negligencia o aspecto comunitário e presencial do RPG de mesa fora da formalidade. 
 
-Soluções e Plataformas Existentes
+Mesmo com a digitalização crescente das atividades de lazer e com diversas plataformas buscando simular a experiência do RPG de mesa no meio digital através de ambientes virtuais complexos, com suporte a mapas dinâmicos, fichas de personagem detalhadas e rolagem automatizada de dados (ex: exemplo Roll20, Foundry VTT e Fantasy Grounds), a prioridade é a virtualização do jogo em si, muitas vezes desconsiderando os aspectos sociais e afetivos característicos do RPG presencial (Gomes & Tavares, 2022).
 
-Diversas iniciativas já abordam o RPG no ambiente digital, oferecendo inspiração para o projeto:
+Além disso, a literatura destaca a dificuldade de manter a coesão do grupo e a imersão da narrativa em ambientes exclusivamente digitais, o que pode comprometer a experiência lúdica e a construção cooperativa do enredo (Duarte et al., 2020). Também é notável a carência de ferramentas que integrem componentes digitais com encontros presenciais e com a organização de eventos, lojas e comunidades locais. 
 
-●	RPG na Escola (2025): Focado na educação, disponibiliza guias, planos de aula e exemplos práticos para professores, destacando a importância de recursos estruturados.
+Na experiência presencial, a dificuldade em encontrar grupos de jogo, mestres experientes, espaços físicos adequados e eventos especializados limitam a expansão da prática, principalmente em regiões fora dos grandes centros urbanos (Silva et al., 2021). Essa fragmentação da comunidade se intensifica pela ausência de plataformas que centralizem informações e promovam a conexão entre seus participantes.
 
-●	RPG Educ (2025): Propõe um sistema de RPG simplificado, com fichas de personagens e materiais adaptados, voltado para uso escolar e alinhado à Base Nacional Comum Curricular (BNCC).
-
-Embora úteis, essas soluções têm limitações: seu foco é majoritariamente pedagógico ou restrito a jogos digitais, deixando uma lacuna na integração da comunidade de RPG de mesa em contextos presenciais, especialmente no Brasil.
-
-Proposta do Portal dos Mestres
-
-O "Portal dos Mestres" diferencia-se ao propor uma plataforma online que une jogadores e mestres de RPG de mesa por meio de funcionalidades específicas:
-
-●	Conexão Personalizada: Cadastro de usuários com indicação de estilos de RPG, papéis (mestre ou jogador) e uso de tags para facilitar a busca por grupos compatíveis.
-
-●	Descoberta de Espaços: Mapeamento de estabelecimentos geek e eventos, oferecendo uma solução prática para localizar locais de jogo.
-
-●	Comunidade: Promove interação entre entusiastas, organizadores de eventos e donos de espaços, fortalecendo a rede de apoio no Brasil.
-
-Essa abordagem responde diretamente aos problemas identificados: a dificuldade de encontrar parceiros e locais para partidas presenciais.
-
- Tecnologias e Tendências Relevantes
- 
-A viabilidade do "Portal dos Mestres" é sustentada por tecnologias já consolidadas em sistemas de informação. Ferramentas de busca personalizada, integração de mapas interativos e cadastros dinâmicos são amplamente utilizadas em plataformas modernas e podem ser adaptadas para atender às necessidades dos jogadores de RPG (Instituto Claro, 2025). O crescimento de eventos geek presenciais e virtuais no Brasil reforça a demanda por uma solução que organize essas oportunidades, enquanto o aumento do interesse por experiências comunitárias destaca a relevância de conectar pessoas em torno do RPG (RPG Educ, 2025).
-
- Lacunas e Contribuições
- 
-As iniciativas existentes, embora valiosas, não oferecem uma visão holística para a comunidade de RPG de mesa brasileira. Plataformas educacionais como "RPG na Escola" e "RPG Educ" atendem a nichos específicos, enquanto ferramentas online como Roll20 ignoram a dimensão presencial. O "Portal dos Mestres" preenche essa lacuna ao focar na conexão física entre jogadores, mapeando espaços e eventos de forma centralizada. Assim, o projeto não só facilita o acesso à prática do RPG, mas também contribui para o fortalecimento da cultura geek no país.
-
-Conclusão
-
-O estado da arte mostra que o RPG de mesa é uma ferramenta consolidada de interação, com aplicações que vão do entretenimento à educação. As soluções atuais oferecem recursos práticos, mas carecem de uma abordagem ampla que atenda à comunidade presencial no Brasil. O "Portal dos Mestres" inova ao propor uma plataforma que conecta jogadores, mapeia espaços e promove integração, alinhando-se às tendências tecnológicas e às necessidades dos entusiastas de RPG. Com isso, o projeto se posiciona como uma contribuição significativa para enriquecer a experiência dos jogadores e consolidar a cultura geek nacional.
+Diante dessas limitações, o presente trabalho propõe o desenvolvimento do Portal dos Mestres, uma plataforma digital orientada à integração da comunidade de RPG de mesa no Brasil. Ao conectar jogadores e mestres com espaços físicos e eventos regionais, o sistema busca fortalecer os vínculos sociais e facilitar o acesso à prática presencial. Essa proposta está alinhada às tendências contemporâneas de plataformas comunitárias híbridas, promovendo não apenas o entretenimento, mas também o desenvolvimento pessoal, educacional e cultural dos participantes.
