@@ -7,12 +7,19 @@ Descrever e especificar as necessidades dos Usuários que devem ser atendidas pe
 ## 3.2 Escopo do produto
 
 ### 3.2.1 Nome do produto e seus componentes principais
-O produto será uma plataforma de jogos de RPG denominado Portal dos Mestres. Ela será composta 3 componentes (módulo): Gestão de usuários, comunicação (Chat), fórum e notícias. 
+O produto será uma plataforma de jogos de RPG denominado Portal dos Mestres. Ela será composta 3 componentes (módulo):
+
+- Módulo de Gestão de Usuários
+- Módulo de Comunicação (Chat direto, Sistema de Mensagens e Fórum)
+- Módulo de Conteúdo (Notícias, Eventos e Divulgação de Sessões)
+- Módulo de Mapeamento de Espaços Físicos e Eventos (geolocalização)
 
 ### 3.2.2 Missão do produto
-Fornecer uma plataforma colaborativa para compartilhamento e divulgação da cultura do RPG de mesa. O intuito é criar uma rede social e reunir jogadores interessados ao universo geek.
+
+Fornecer uma plataforma colaborativa para compartilhamento e divulgação da cultura do RPG de mesa. O intuito é criar uma rede social e reunir jogadores interessados ao universo geek, de maneira a fortalecer a comunidade e impulsionar os eventos que existem, tal qual proporcionar novos.
 
 ### 3.2.3 Limites do produto
+
 A plataforma de gestão de usuários de RPG não oferece integração direta com plataformas de jogos online para importação automática de campanhas ou personagens. Além disso, a plataforma não realiza moderação automática de postagens, deixando a curadoria do conteúdo inteiramente a cargo da comunidade e dos administradores de grupos.
 
 ### 3.2.4 Benefícios do produto
@@ -46,15 +53,16 @@ A plataforma de gestão de usuários de RPG não oferece integração direta com
 | RNF1 | O sistema deverá executar em um dispositivo que tenha acesso aos navegadores Chrome, Edge, Firefox, Opera, Safari. |
 | RNF2 |	Segurança	| O produto deve restringir o acesso por meio de senhas individuais para o usuário. |
 | RNF3 | O sistema deve suportar aproximadamente 20.000 usuários simultâneos. |
-| ... |	... |	... |
 
 ### 3.3.3 Usuários 
 
-| Ator | Descrição |
-|--------------------|------------------------------------|
-| Coordenador |	Usuário gerente do sistema responsável pelo cadastro e manutenção de cursos de aperfeiçoamento. Possui acesso geral ao sistema. |
-| Secretaria |	Usuário responsável por registros de alunos, professores, turmas e gerência de matrículas. |
-| ... |	... |	... |
+| Ator                  | Descrição                                                                 |
+|-----------------------|---------------------------------------------------------------------------|
+| **Jogador**           | Usuário que busca grupos, participa de eventos e interage com a comunidade. |
+| **Mestre de Jogo**    | Usuário que cria campanhas, organiza sessões e gerencia eventos.           |
+| **Lojista / Organizador** | Cadastra espaços físicos e promove eventos geek/RPG locais.              |
+| **Moderador / Administrador** | Responsável por curadoria de conteúdo, bloqueio de usuários e configuração do sistema. |
+
 
 ## 3.4 Modelagem do Sistema
 
