@@ -40,6 +40,7 @@
 
 ## 4.2 Mapa de Empatia
 
+![Mapa de Empatia](mapa_empatia.png)
 
 
 ## 4.3 Protótipos das Interfaces
