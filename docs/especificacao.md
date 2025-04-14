@@ -66,6 +66,7 @@ O Portal dos Mestres não fornece:
 | RF15   | Enviar Mensagens em grupos                       | Permitir comunicação entre usuários via mensagens em grupos |
 | RF16   | Moderar Conteúdos                                | Permitir que administradores removam conteúdo ofensivo ou fora das regras |
 | RF17   | Gerenciar administradores                        | Permitir que administradores sejam cadastrados, listados e removidos |
+| RF18   | Publicar dúvidas, notícias ou discussões públicas  | Permitir que os alunos compartilhem novidades ou dúvidas e comentem através de postagens  |
 
 
 ### 3.3.2 Requisitos Não Funcionais
@@ -361,8 +362,6 @@ Pós-condições: Um conteúdo foi moderado ou a lista de administradores foi at
 Requisitos: RF16, RF17
 
 ### 3.4.3 Diagrama de Classes 
-
-A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a identificação do funcionário responsável pelo registro, bem com os dados do aluno e turmas. Para uma disciplina podemos ter diversas turmas, mas apenas um professor responsável por ela.
 
 #### Figura 2: Diagrama de Classes do Sistema.
  
