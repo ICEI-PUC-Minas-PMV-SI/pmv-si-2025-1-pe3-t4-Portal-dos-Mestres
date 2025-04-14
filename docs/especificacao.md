@@ -371,11 +371,15 @@ A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a i
 
 ### 3.4.4 Descrições das Classes 
 
-| # | Nome | Descrição |
-|--------------------|------------------------------------|----------------------------------------|
-| 1	|	Aluno |	Cadastro de informações relativas aos alunos. |
-| 2	| Curso |	Cadastro geral de cursos de aperfeiçoamento. |
-| 3 |	Matrícula |	Cadastro de Matrículas de alunos nos cursos. |
-| 4 |	Turma |	Cadastro de turmas.
-| 5	|	Professor |	Cadastro geral de professores que ministram as disciplinas. |
-| ... |	... |	... |
+| # | Nome            | Descrição                                                                 |
+|---|-----------------|---------------------------------------------------------------------------|
+| 1 | User            | Armazena informações básicas de autenticação e localização do usuário.   |
+| 2 | Admin           | Representa um usuário com privilégios administrativos no sistema.         |
+| 3 | Profile         | Define perfis de usuário com nome, tipo (mestre, jogador) e tags.         |
+| 4 | Event           | Representa eventos presenciais ou online cadastrados na plataforma.       |
+| 5 | EventPresence   | Registra a presença e confirmação de usuários em eventos.                 |
+| 6 | Store           | Representa locais/geek stores onde eventos podem ocorrer.                 |
+| 7 | Group           | Estrutura de agrupamento entre perfis para organização de campanhas.      |
+| 8 | GroupAccess     | Registra a associação entre perfis e grupos com controle de acesso.       |
+| 9 | Posts           | Publicações feitas dentro dos grupos por perfis.                          |
+| 10 | Comments       | Comentários feitos em posts por usuários.  
