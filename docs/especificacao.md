@@ -382,3 +382,5 @@ A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a i
 | 8 | GroupAccess     | Registra a associação entre perfis e grupos com controle de acesso.       |
 | 9 | Posts           | Publicações feitas dentro dos grupos por perfis.                          |
 | 10 | Comments       | Comentários feitos em posts por usuários.  
+| 11 | Moderation     | Moderação ou censura de conteúdo |
+| 12 | Messages       | Mensagens de grupos |
