@@ -1,13 +1,10 @@
 # 4. PROJETO DO DESIGN DE INTERAÇÃO
 
+## 4.2 Mapa de Empatia
+
 Foi desenvolvida uma persona e um mapa de empatia utilizando o Figma, com o objetivo de compreender profundamente as necessidades, desejos e comportamentos do público-alvo. Esses materiais foram criados para orientar o processo de design e garantir que as soluções propostas estejam alinhadas com as expectativas dos usuários.
 
 Para visualizar os protótipos, acesse: https://www.figma.com/board/DjeYxh8Aenx3iCICNnGRyf/Mapa-de-empatia--Community-?node-id=0-1&t=XB9gIOwc1H1ZlsLB-1
-
-
-## 4.2 Mapa de Empatia
-
-
 
 
 ## 4.3 Protótipos das Interfaces
