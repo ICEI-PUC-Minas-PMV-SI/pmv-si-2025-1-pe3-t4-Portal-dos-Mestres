@@ -16,7 +16,7 @@ Os protótipos das telas foram desenvolvidos no Figma: https://www.figma.com/pro
 
 A tela de login do sistema apresenta uma interface simples e funcional. Composta por campos de e-mail e senha, além do botão de "Entrar", ela é responsável por autenticar o usuário no sistema.
 
-Manter a consistência: Os elementos visuais como cores, logo, tipografia e alinhamento estão de acordo com o restante da aplicação. Isso contribui para a coerência visual e reduz o tempo de adaptação do usuário.
+### Manter a consistência:Os elementos visuais como cores, logo, tipografia e alinhamento estão de acordo com o restante da aplicação. Isso contribui para a coerência visual e reduz o tempo de adaptação do usuário.
 
 Permitir atalhos para usuários experientes: Seria interessante oferecer logins alternativos, como autenticação por redes sociais ou biometria em dispositivos móveis.
 
