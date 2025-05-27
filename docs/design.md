@@ -9,7 +9,7 @@ Para visualizar os protótipos, acesse: https://www.figma.com/board/DjeYxh8Aenx3
 
 ## 4.3 Protótipos das Interfaces
 
-Os protótipos das telas foram desenvolvidos no Figma: https://www.figma.com/proto/uLi9Ljs5xh8YoNwaNdvMkm/Wireframe-de-M%C3%A9dia-Fidelidade---Projeto-1-DIO--Community-?node-id=0-1&t=FQcL2Y88puCBvbtE-1, com o objetivo de criar interfaces intuitivas e eficazes. Cada tela foi projetada seguindo as 8 Regras de Ouro de Ben Shneiderman para garantir uma experiência de usuário consistente e amigável. Abaixo, detalhamos como essas regras foram aplicadas em 6 telas principais do projeto:
+Os protótipos das telas foram desenvolvidos no Figma: https://www.figma.com/design/uLi9Ljs5xh8YoNwaNdvMkm/Wireframe-de-M%C3%A9dia-Fidelidade---Projeto-1-DIO--Community-?node-id=0-1&t=sCjH8QK1xYfLPfdl-1, com o objetivo de criar interfaces intuitivas e eficazes. Cada tela foi projetada seguindo as 8 Regras de Ouro de Ben Shneiderman para garantir uma experiência de usuário consistente e amigável. Abaixo, detalhamos como essas regras foram aplicadas em 6 telas principais do projeto:
 
 
 # Tela de Login
